@@ -1,0 +1,16 @@
+county 1 opp 1;120;369
+county 1 opp 2;119;372
+county 2 opp 1;277;252
+county 2 opp 2;279;250
+county 3 opp 1;272;249
+county 3 opp 2;248;296
+county 4 opp 2;375;377
+county 5 opp 1;288;468
+county 6 opp1;320;163
+county 7 opp 2;162;242
+county 12 opp 1;164;245
+county 12 opp 2;166;250
+FIRE;170;155
+wasps;433;318
+dogs;53;298
+FIRE;108;404

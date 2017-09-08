@@ -1,0 +1,13 @@
+Led Zeplin;340;80
+Rolling Stones;430;365
+Alice in Chains;770;450
+Guns and Roses;225;525
+Eagles;730;245
+Scissor Sisters;540;535
+Prince;470;540
+Gorillas;600;135
+Smashing Pumpkins;601;600
+Pixies;40;150
+B52s;500;75
+Garbage;570;460
+Queen;325;495
