@@ -2,7 +2,7 @@
 Data structure assigenments with our solutions.
 
  * The goals of this course are to learn a variety of useful data structures and to use them properly when designing efficient algorithms. During this process we will define (asymptotic) runtime and space efficiency of algorithms and their data structures. We will learn how to design algorithms and data structures to efficiently solve problems. 
-# Topics :
+## Topics :
 * Growth of Functions & Algorithm Analysis
 * Recurrences
 * Basic ADT’s: Arrays, Linked Lists, Stacks & Queues
